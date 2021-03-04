@@ -32,7 +32,7 @@ function AccountScreen({ navigation }) {
     <Screen style={styles.screen}>
       <View style={styles.container}>
         <ListItem
-          title="Hasan Isahu"
+          title="Erza Haziri"
           subTitle="hasanisahuu@gmail.com"
           image={require("../assets/123.jpg")}
         />
